@@ -1,0 +1,1 @@
+impersonate_browser = "chrome120"
